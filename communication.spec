@@ -3,8 +3,8 @@
 block_cipher = None
 
 
-a = Analysis(['src\\communication.py'],
-             pathex=['E:\\gomoku'],
+a = Analysis(['src/communication.py'],
+             pathex=['/home/pierre/delivery/tech3/gomoku/githubGomoku/gomoku'],
              binaries=[],
              datas=[],
              hiddenimports=[],

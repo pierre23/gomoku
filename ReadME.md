@@ -27,7 +27,7 @@ $ ./pbrain-Paris-Lundh-Sandra.exe
 
 ### **Made By**
 
- Pierre Leuleu, Elodie Billiot & Sandra Lundh  --- \o/ The dream Team \o/
+ Pierre Leuleu, Elodie Billiot & Sandra Lundh
  2018
 
 [![](http://anatole-menichetti.fr/wp-content/uploads/2015/09/epitech1.png)]
